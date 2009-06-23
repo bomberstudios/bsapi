@@ -1,3 +1,10 @@
 # bsapi
 
 A collection of ActionScript libraries I happen to use quite a lot.
+
+## Usage
+
+In the current project's root folder:
+
+    git submodule add git://github.com/bomberstudios/bsapi.git com/bomberstudios
+
